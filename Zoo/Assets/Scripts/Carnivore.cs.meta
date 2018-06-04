@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9e74f77eb8d531742a105e517230de8a
+timeCreated: 1527510738
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Balloon: {instanceID: 0}
+  - text: {instanceID: 0}
+  - meatText: {instanceID: 0}
+  - leafCounter: {instanceID: 0}
+  - meatCounter: {instanceID: 0}
+  - healthSlider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
